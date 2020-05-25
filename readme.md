@@ -1,20 +1,22 @@
+                            *VERSION DE MUESTRA, SIN LA UTILIZACIÓN DE AUTH PARA LA PROTECCIÓN DE DATOS*
+
 Proyecto personal, desarrollado íntegramente por mi, en beneficio del centro de estudiantes actualmente vigente (2020) en mi facultad. Agiliza la gestión y genera una mejor experiencia de usuario, al encargado del área "Beca de fotocopias".
 Para la realización del mismo utilicé:
 
 * FrontEnd:
- - Plantilla Admin LTE
- - Bootstrap
- - HTML
- - CSS
+    - Plantilla Admin LTE
+    - Bootstrap
+    - HTML
+    - CSS
  
 * Backend:
- - Framework Laravel 6 (PHP)
- - JQuery
+    - Framework Laravel 6 (PHP)
+    - JQuery
 
 * Conexión entre Controlador y Vistas, mediante plantillas Blade (propias de Laravel)
 
 * Base de datos:
- - MySQL (potenciado en algunos casos con Eloquent)
+    MySQL (potenciado en algunos casos con Eloquent)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
