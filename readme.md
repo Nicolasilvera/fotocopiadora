@@ -1,8 +1,9 @@
                             *VERSION DE MUESTRA, SIN LA UTILIZACIÓN DE AUTH PARA LA PROTECCIÓN DE DATOS*
 
+Deployed on Heroku: https://fotocopiadora.herokuapp.com/
+
 Proyecto personal, desarrollado íntegramente por mi, en beneficio del centro de estudiantes actualmente vigente (2020) en mi facultad. Agiliza la gestión y genera una mejor experiencia de usuario, al encargado del área "Beca de fotocopias".
 Para la realización del mismo utilicé:
-
 * FrontEnd:
     - Plantilla Admin LTE
     - Bootstrap
@@ -14,6 +15,8 @@ Para la realización del mismo utilicé:
     - JQuery
 
 * Conexión entre Controlador y Vistas, mediante plantillas Blade (propias de Laravel)
+
+* No se requiere sistema responsivo, puesto que se accede siempre desde PC (NO ES FUNCIONAL EN MOVIL)
 
 * Base de datos:
     MySQL (potenciado en algunos casos con Eloquent)
